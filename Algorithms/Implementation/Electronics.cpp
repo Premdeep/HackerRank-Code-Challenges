@@ -23,7 +23,7 @@ int main() {
     int min = INT_MAX;
     int result = -1;
 
-    // More of like a selection sort algorithm O(n*m) complexity
+    // More of like a selection sort algorithm O(n*m) complexity.
     
     for(int i = 0; i < keyb; i++){
         for(int j = 0; j < usb; j++){
